@@ -1,0 +1,9 @@
+./boot/*
+./usr/lib/firmware
+./usr/lib/modules
+./usr/share/doc/*
+./usr/share/man/*
+./usr/src
+./var/cache/*
+./var/lib/apt/lists/*
+./var/lib/snapd/*
