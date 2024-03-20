@@ -10,5 +10,5 @@
 
 ## 対応してるOS
 
-* [Ubuntu22.04(Arm64)](./ubuntu22-arm64)
+* [Ubuntu22.04(Arm64)](./ubuntu22-arm64/README.md)
 

@@ -9,4 +9,4 @@ Basically, scripts target an architecture other than `amd64`, because of assumin
 
 ## Supported OSes
 
-* [Ubuntu22.04(Arm64)](./ubuntu22-arm64)
+* [Ubuntu22.04(Arm64)](./ubuntu22-arm64/README.md)
